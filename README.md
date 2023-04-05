@@ -30,4 +30,4 @@ My passion for education and mentorship has also led me to guide aspiring softwa
 
 ## 🌟 Let's Connect
 
-I'm always excited to collaborate on innovative projects and learn new technologies. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) and let's make some magic together! 🌟
+I'm always excited to collaborate on innovative projects and learn new technologies. Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/materdev/)) and let's make some magic together! 🌟
