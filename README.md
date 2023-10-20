@@ -1,7 +1,5 @@
 # Hey there, fellow Earth-dweller! 👋
 
-![](https://github-readme-stats.vercel.app/api?username=materdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
