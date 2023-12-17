@@ -3,6 +3,10 @@
 ![materdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=materdev&theme=vue&hide_border=true)
 ![materdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=materdev&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
+[![LinkedIn Badge](https://img.shields.io/badge/-materdev-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/materdev/)](https://www.linkedin.com/in/materdev/)
+[![YouTube Badge](https://img.shields.io/badge/-materdev-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC-993vnmnmaUgKwkckUsT3g)](https://www.youtube.com/channel/UC-993vnmnmaUgKwkckUsT3g)
+[![Blog Badge](https://img.shields.io/badge/-mater.dev-1f425f?style=flat-square&logo=Blog&logoColor=white&link=https://www.mater.dev/)](https://www.mater.dev/)
+
 
 I'm an Afro-Indigenous techie on a mission to sprinkle a little magic and make the world a better place—one keystroke at a time.
 
