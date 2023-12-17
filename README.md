@@ -1,5 +1,9 @@
 # Hey there, fellow Earth-dweller! 👋
 
+![](https://raw.githubusercontent.com/materdev/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/materdev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
 I'm an Afro-Indigenous techie on a mission to sprinkle a little magic and make the world a better place—one keystroke at a time.
 
 ## 🤹‍♀️ Versatility
