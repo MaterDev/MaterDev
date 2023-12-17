@@ -1,8 +1,8 @@
 # Hey there, fellow Earth-dweller! 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-materdev-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/materdev/)](https://www.linkedin.com/in/materdev/)
-[![YouTube Badge](https://img.shields.io/badge/-materdev-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC-993vnmnmaUgKwkckUsT3g)](https://www.youtube.com/channel/UC-993vnmnmaUgKwkckUsT3g)
-[![Blog Badge](https://img.shields.io/badge/-mater.dev-1f425f?style=flat-square&logo=Blog&logoColor=white&link=https://www.mater.dev/)](https://www.mater.dev/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/materdev/)](https://www.linkedin.com/in/materdev/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC-993vnmnmaUgKwkckUsT3g)](https://www.youtube.com/channel/UC-993vnmnmaUgKwkckUsT3g)
+[![Blog Badge](https://img.shields.io/badge/-Blog-1f425f?style=flat-square&logo=Blog&logoColor=white&link=https://www.mater.dev/)](https://www.mater.dev/)
 
 ---
 
