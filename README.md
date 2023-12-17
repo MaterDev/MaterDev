@@ -1,6 +1,8 @@
 # Hey there, fellow Earth-dweller! 👋
 
 ![materdev's Stats](https://github-readme-stats.vercel.app/api?username=materdev&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![materdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=materdev&theme=vue&hide_border=true)
+![materdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=materdev&theme=vue&show_icons=true&hide_border=true&layout=compact)
 
 
 I'm an Afro-Indigenous techie on a mission to sprinkle a little magic and make the world a better place—one keystroke at a time.
