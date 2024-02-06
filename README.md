@@ -18,7 +18,7 @@ But it's not all about the technicalities—I deeply value emotional intelligenc
 
 ## 👾 My Technical Journey
 
-Throughout my career, I've engaged in full-stack, agile, and test-driven projects, working on both consumer-facing and enterprise technology developments. My focus has been on IoT, embracing the DevOps model and pair programming.
+Throughout my career, I've engaged in full-stack, agile, and test-driven projects, working on both consumer-facing and enterprise technology developments.
 
 I'm also passionate about education and mentorship, guiding aspiring software developers on their journey, sharing my expertise, and creating a supportive learning environment.
 
