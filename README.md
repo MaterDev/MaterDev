@@ -33,7 +33,3 @@ I'm also passionate about education and mentorship, guiding aspiring software de
 ## 👾 Let's Connect
 
 I'm always eager to collaborate on innovative projects and explore new technologies. Connect with me on [LinkedIn](https://www.linkedin.com/in/materdev/) and let's create something extraordinary together! 🌟
-
----
-
-![materdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=materdev&theme=vue&show_icons=true&hide_border=true&layout=compact)
